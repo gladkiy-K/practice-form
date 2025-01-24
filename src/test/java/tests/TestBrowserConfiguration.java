@@ -13,4 +13,5 @@ public class TestBrowserConfiguration {
 //        Configuration.browser = "chrome";
 //        Configuration.holdBrowserOpen = true;
     }
+
 }

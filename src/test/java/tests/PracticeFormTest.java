@@ -67,7 +67,7 @@ public class PracticeFormTest extends TestBrowserConfiguration{
             System.out.println("test passed");
         }
         $("div.table-responsive").shouldHave(text("Kir"),
-                text("Gladkiy"), text("39691231213"));
+                text("Gladkiy"), text("9691231213"));
     }
 }
 
